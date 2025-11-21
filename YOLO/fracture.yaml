@@ -1,0 +1,9 @@
+# Number of classes
+nc: 2
+
+# Class names
+names: ['fracture','implant']
+
+# Paths to train and validation images
+train: /content/drive/MyDrive/fracture_detection_final/dataset/images/train
+val: /content/drive/MyDrive/fracture_detection_final/dataset/images/val
